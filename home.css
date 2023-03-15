@@ -42,7 +42,7 @@ h2, h4,h3 {
 
 /* Navigation - left side */
 .cell-1 { 
-  Background: Linear-Gradient(To Bottom, #c3fae0, #c3fae0);
+  Background: white;
   height: 800px;
   padding-top: -20px;
 }
